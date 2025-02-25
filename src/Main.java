@@ -10,7 +10,7 @@ public class Main {
         System.out.println("Current time in milliseconds: " + System.currentTimeMillis());
 
         // Display a formatted message
-        String name = "Java User";
+        String name = "Java U6r";
         int year = 2025;
         System.out.printf("Welcome, %s! It's now %d.\n", name, year);
     }
