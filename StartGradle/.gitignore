@@ -1,0 +1,65 @@
+### Gradle ###
+.gradle/
+build/
+out/
+!gradle/wrapper/gradle-wrapper.jar
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.ipr
+*.iws
+*.swp
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/gradle.xml
+.idea/**/libraries/
+.idea/shelf/
+
+### Eclipse ###
+.project
+.classpath
+.settings/
+.metadata/
+
+### VS Code ###
+.vscode/
+
+### Compiled files ###
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+### OS-specific files ###
+.DS_Store
+Thumbs.db
+desktop.ini
+
+### Logs ###
+logs/
+*.log
+**/log/
+**/*.log
+
+### Test results ###
+test-results/
+test-output/
+
+### Generated files ###
+bin/
+dist/
+target/
+*.hprof
+
+### Local environment settings ###
+.env
+*.local
+*.bak
+*.swp
+*~
+
+### Dependencies ###
+/lib/
